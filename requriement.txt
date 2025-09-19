@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+transformers
+torch
+wordcloud
+matplotlib
+scikit-learn
+folium
+streamlit-folium
+geopy
